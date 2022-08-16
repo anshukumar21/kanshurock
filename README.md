@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanshurock
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning unity
+- 👀 I’m interested in WEB development
+- 🌱 I’m currently learning HTML,CSS,javascript
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me https://www.linkedin.com/in/anshu-kumar-0/
 
